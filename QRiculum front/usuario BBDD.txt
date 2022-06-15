@@ -1,5 +1,8 @@
-Usuario BBDD admin
-contraseña iesalbarregas
+USUARIO 1:
+	Usuario: admin
+	Contraseña: iesalbarregas
 
-iesalbarregas
-iesalbarregas
+USUARIO 2:
+
+	Usuario: iesalbarregas
+	Contraseña: iesalbarregas
